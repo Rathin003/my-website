@@ -1,0 +1,40 @@
+body{
+background-color: lightblue ;
+text-align: center;
+font-family: Arial, sans-serif;
+width: auto;
+height: auto;
+}
+img {
+  width: 50px;
+  height: auto;
+}
+h1{
+font-size: 40px;
+color: darkblue;
+}
+h2{
+    font-size: 30px;
+    color: darkslategray;
+}
+.intro{
+    font-size: 18px;
+    color: #333;
+}
+.maill{
+    font-size: 11px;
+    color:#333;
+    text-align: left;
+    margin-bottom: 0px;
+}
+.button{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: rgb(0, 100, 139);
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 11px;
+    margin-top: 0px;
+    float: left;
+}
